@@ -12,6 +12,7 @@ Three data sources were merged together to end up with one dataset that contain 
 
 </br>
 This project was done to fulfill SDAIA T5 Bootcamp requirements.
-*Contributors [Ibrahim Alzuhairi](https://github.com/ibalzuhairi), [Abdulaziz Alshehri](https://github.com/AbdulazizAlshehri)*
+
+*Contributors [Ibrahim Alzuhairi](https://github.com/ibalzuhairi) and [Abdulaziz Alshehri](https://github.com/AbdulazizAlshehri)*
 
 
