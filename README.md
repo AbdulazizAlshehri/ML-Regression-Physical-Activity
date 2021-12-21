@@ -1,4 +1,6 @@
 # ML-Regression-Physical-Activity
+
+# About
 This is a machine learning project, that seeks to predict people activity (number of steps) using regression models. Three different regression models (Linear Regression, Random Forest, and Decision Tree) were trained, validated, and tested on data that was collected from the iPhones Health app.
 
 # Data
